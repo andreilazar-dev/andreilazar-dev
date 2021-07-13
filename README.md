@@ -11,6 +11,8 @@ I like full stack development
 
 [<img align="left" alt="web-site" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](https://andreilazar-dev.com/)
 
+<br>
+<br>
 
 ## Expertise
 
